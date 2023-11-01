@@ -102,7 +102,6 @@ public abstract class AbstractMemory implements Memorable {
         }
     }
 
-
     // вероятно, блоки кода в питоне взаимосвязаны, поэтому написаны раздельно
 
 }
